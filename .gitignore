@@ -1,0 +1,11 @@
+# n8n specific
+database.sqlite
+.n8n/
+binaryData/
+config
+n8nEventLog.log
+crash.journal
+
+# Node.js
+node_modules/
+npm-debug.log
